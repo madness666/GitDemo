@@ -3,6 +3,10 @@ package com.kunlun.git;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 666
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
